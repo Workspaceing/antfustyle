@@ -1,5 +1,6 @@
 # Astro AntfuStyle Theme
 
+antfu.me
 [![ci][ci-badge]][ci-link]
 [![version][version-badge]][version-link]
 [![live demo][demo-badge]][demo-link]
